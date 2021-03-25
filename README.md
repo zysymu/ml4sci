@@ -8,7 +8,7 @@ What is PyAutoLens? — PyAutoLens
 
 Task: Modify and/or use the already existing functionality of PyAutoLens to simulate strong lensing from superfluid dark matter. Specifically, you will need to simulate the effects of lensing from a linear mass density - imagine this being a string of mass on galactic scales.
 
-## Solution can be found [here]()!
+## Solution can be found [here](https://github.com/zysymu/ml4sci/blob/main/superfluid_dark_matter/simulation.ipynb)!
 
 # Specific test (II): Learning the DM representation
 
