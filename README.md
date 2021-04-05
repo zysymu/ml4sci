@@ -3,7 +3,7 @@ A repository containing my submissions for the evaluation test for prospective G
 - Common test (I): Simulating Superfluid Dark Matter (DM) with PyAutoLens: solution can be found [here](https://github.com/zysymu/ml4sci/blob/main/superfluid_dark_matter/simulation.ipynb)!
 - Specific test (II): Learning the DM representation: solution can be found [here](https://nbviewer.jupyter.org/github/zysymu/ml4sci/blob/main/domain_adaptation/domain_adaptation.ipynb)! 
 
-**NOTE:** I had to submit the evaluation test until March 24 and these last links are my original submissions. Since then I continued experimenting with AAEs and managed to get much better results and fix a lot of mistakes that I had made during my rush to finish the evaluation test on time. The new version can be seen in [this](https://github.com/zysymu/unsupervised-adversarial-autoencoder) repository (I choose to use a differente repo so that it doesn't interfere with the dates)!
+**NOTE:** I had to submit the evaluation test until March 24 and these last links are my original submissions. Since then I continued experimenting with AAEs and managed to get much better results and fix a lot of mistakes that I had made during my rush to finish the evaluation test on time. The new version can be seen in [this](https://github.com/zysymu/unsupervised-adversarial-autoencoder) repository (I choose to use a differente repo so that it doesn't interfere with the dates, but also added the `aae.ipynb` file here just for good measure)!
 
 
 
